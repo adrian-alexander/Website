@@ -1,0 +1,53 @@
+body {
+    background-color: #2e3440;
+}
+.flex-navbar {
+    display: flex;
+    align-self: start;
+}
+.flex-item {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    width: 100px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: currentColor;
+    border: 3px solid #434c5e;
+    background-color: #4c566a;
+    text-decoration: none;
+    justify-content: center;
+    align-self: center;
+    color: #eceff4;
+}
+.flex-picture {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+#me {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.intro {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #eceff4;
+}
+.paragraph {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #eceff4;
+}
+
+.flex-links {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
